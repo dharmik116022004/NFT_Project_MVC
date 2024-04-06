@@ -1,0 +1,381 @@
+﻿@{
+    ViewData["Title"] = "Home2";
+}
+
+@if (TempData["AlertMessage"] != null)
+{
+        <div class="alert alert-success">
+            <strong>Success! </strong> @TempData["AlertMessage"]
+        </div>
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .hero__section {
+  margin-top: 120px;
+}
+
+.hero__content h2 {
+  line-height: 55px;
+  font-size: 2.5rem;
+}
+
+.hero__content h2 span {
+  background: linear-gradient(-45deg, #e250e5, #4b50e6, #e250e5, #4b50e6);
+  background-size: 100% 100%;
+  background-clip: text;
+  -webkit-text-stroke: 3px transparent;
+  -webkit-text-fill-color: #14141f;
+  margin-left: 7px !important;
+  display: inline-block;
+}
+
+.hero__btns {
+  margin-top: 40px;
+}
+
+.explore__btn,
+.create__btn {
+  border: none;
+  outline: none;
+  padding: 7px 25px !important;
+  border-radius: 50px !important;
+  border: 1px solid #5142fc !important;
+  font-size: 0.9rem;
+  background: transparent;
+}
+
+.explore__btn i,
+.create__btn i {
+  color: #fff;
+  font-size: 1rem;
+}
+
+.explore__btn a,
+.create__btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.hero__btns button a:hover {
+  color: #fff;
+}
+
+.hero__img {
+  width: 500px;
+  margin-left: auto;
+}
+
+.hero__img img {
+  border-radius: 7px;
+}
+
+@@media only screen and (max-width: 992px) {
+  .hero__img {
+    width: 300px;
+  }
+
+  .hero__section {
+    margin-top: 90px;
+  }
+
+  .hero__content h2 {
+    font-size: 1.5rem;
+    line-height: 40px;
+  }
+
+  .hero__content p {
+    font-size: 0.8rem;
+    line-height: 25px;
+  }
+
+  .create__btn,
+  .explore__btn {
+    padding: 4px 25px !important;
+  }
+
+  .create__btn a,
+  .explore__btn a {
+    font-size: 0.7rem;
+  }
+}
+
+@@media only screen and (max-width: 576px) {
+  .hero__img {
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+  }
+}
+
+        </style>
+    </head>
+    <body>
+    <div class="market">
+        <section class="hero__section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="hero__content">
+                            <h2 class="text-white">
+                                Discover rare digital art and collect
+                                <span>sell extraordinary</span> NFTs
+                            </h2>
+                            <p class="text-white">
+                                Experience the future of digital ownership with our diverse NFT
+                                marketplace, where creativity meets collectibility.
+                            </p>
+
+                            <div class="hero__btns d-flex align-items-center gap-4">
+                                <button class="explore__btn d-flex align-items-center gap-2">
+                                    <i class="ri-rocket-line"></i>
+                                    <a href="/Market">Explore</a>
+                                </button>
+                                <button class="create__btn d-flex align-items-center gap-2">
+                                    <i class="ri-ball-pen-line"></i>
+                                    <a href="/Create">Create</a>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <div class="hero__img">
+                            <img src="~/css/hero.png" alt="" class="w-100" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <br />
+        <br />
+
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 mb-5">
+                        <div class="live__auction__top d-flex align-items-center justify-content-between">
+                            <h3 class="text-white">Live Auction</h3>
+                            <span>
+                                <a href="/market">Explore more</a>
+                            </span>
+                        </div>
+                       
+                    </div>
+
+                   
+
+
+                    <!-- Repeat this block for each item in NFT__DATA -->
+                    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+                        <!-- Card 1 -->
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-01.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-01.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 2 -->
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-02.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-02.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Repeat similar structure for Card 3, Card 4, Card 5, Card 6, Card 7, and Card 8 -->
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-03.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-03.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-04.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-04.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+
+                    <!-- End of repeat block -->
+                </div>
+            </div>
+        </section>
+
+        <br />
+        <br />
+
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 mb-5">
+                        <div class="live__auction__top d-flex align-items-center justify-content-between">
+                            <h3 class="text-white">Trending</h3>
+                        </div>
+                    </div>
+
+                    <!-- Repeat this block for each item in NFT__DATA -->
+                    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+                        <!-- Card 1 -->
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-05.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-05.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 2 -->
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-06.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-06.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Repeat similar structure for Card 3, Card 4, Card 5, Card 6, Card 7, and Card 8 -->
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-07.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-02.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-08.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-03.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-09.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-04.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-02.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-04.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-05.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-05.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="width: calc(25% - 10px); margin-bottom: 20px; background-color: #323242; color: white; border-radius: 10px; overflow: hidden;">
+                            <img src="~/css/img-07.jpg" style="width: 100%; height: 300px; object-fit: cover;" />
+                            <div style="padding: 15px;">
+                                <div style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Cartoon Character</div>
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <div style="display: flex; align-items: center;">
+                                        <img src="~/css/ava-06.png" style="width: 35px; height: 35px; border-radius: 50%; margin-right: 10px;" />
+                                        <div style="font-weight: bold;">Username</div>
+                                    </div>
+                                    <button style="background-color: #4d4dff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Place Bid</button>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- End of repeat block -->
+                </div>
+            </div>
+        </section>
+
+    </body>
+</html>

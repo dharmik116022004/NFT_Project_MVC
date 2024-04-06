@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\nft_marketplace.bundle.scp.css",
+      "PackagePath": "staticwebassets\\nft_marketplace.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\5785992.jpg",
+      "PackagePath": "staticwebassets\\css\\5785992.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-01.png",
+      "PackagePath": "staticwebassets\\css\\ava-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-02.png",
+      "PackagePath": "staticwebassets\\css\\ava-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-03.png",
+      "PackagePath": "staticwebassets\\css\\ava-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-04.png",
+      "PackagePath": "staticwebassets\\css\\ava-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-05.png",
+      "PackagePath": "staticwebassets\\css\\ava-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\ava-06.png",
+      "PackagePath": "staticwebassets\\css\\ava-06.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\bag.png",
+      "PackagePath": "staticwebassets\\css\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\bg.png",
+      "PackagePath": "staticwebassets\\css\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\calendar.png",
+      "PackagePath": "staticwebassets\\css\\calendar.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\hero.png",
+      "PackagePath": "staticwebassets\\css\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-01.jpg",
+      "PackagePath": "staticwebassets\\css\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-02.jpg",
+      "PackagePath": "staticwebassets\\css\\img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-03.jpg",
+      "PackagePath": "staticwebassets\\css\\img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-04.jpg",
+      "PackagePath": "staticwebassets\\css\\img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-05.jpg",
+      "PackagePath": "staticwebassets\\css\\img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-06.jpg",
+      "PackagePath": "staticwebassets\\css\\img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-07.jpg",
+      "PackagePath": "staticwebassets\\css\\img-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-08.jpg",
+      "PackagePath": "staticwebassets\\css\\img-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\img-09.jpg",
+      "PackagePath": "staticwebassets\\css\\img-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\logo.png",
+      "PackagePath": "staticwebassets\\css\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\logo1.jpg",
+      "PackagePath": "staticwebassets\\css\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\logo2.jpg",
+      "PackagePath": "staticwebassets\\css\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hitesh Bhakta\\source\\repos\\nft_marketplace\\nft_marketplace\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.nft_marketplace.props",
+      "PackagePath": "build\\nft_marketplace.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.nft_marketplace.props",
+      "PackagePath": "buildMultiTargeting\\nft_marketplace.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.nft_marketplace.props",
+      "PackagePath": "buildTransitive\\nft_marketplace.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nft_marketplace.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
